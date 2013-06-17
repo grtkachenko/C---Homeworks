@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+#DSstore
+*DS_Store
+*un~
