@@ -1,4 +1,4 @@
-C---Homeworks
+C++ homeworks
 =============
 
 Some C++ Homeworks
