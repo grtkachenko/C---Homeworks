@@ -15,3 +15,9 @@
 #DSstore
 *DS_Store
 *un~
+
+#Build folder
+*-build
+
+#Others
+*.user
